@@ -211,7 +211,7 @@
   ],
   "images": [
     {
-      "uri": "textures/default_baseColor.png"
+      "uri": "default_baseColor.png"
     }
   ],
   "materials": [
